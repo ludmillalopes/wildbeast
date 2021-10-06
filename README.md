@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-bottom: 15px;">
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ludmillalopes/wildbeast?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ludmillalopes/wildbeast">
@@ -8,26 +8,24 @@
   </a>
     
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</div>
+</p>
 
-<h1>
-  <img alt="Wildbeast" title="Wildbeast" src="./img/wildbeast.svg" style="background: #B07DFB; padding: 1em 30%; width: 40%;">
-</h1>
+<p>
+  <img align="center" alt="Wildbeast" title="Wildbeast" src="./screenshots/banner.png">
+</p>
 
-<p style="text-align: center; margin-bottom: 15px;">Projeto desenvolvido com a finalidade de aplicar conhecimentos adquiridos no curso de CSS Grid Layout da Origamid.</p>
+<p align="center">Projeto desenvolvido com a finalidade de aplicar conhecimentos adquiridos no curso de CSS Grid Layout da Origamid.</p>
 
-<h4 style="text-align: center; margin-bottom: 15px;"> 
-	🚧  Wildbeast 🐺 Em Construção 🚀 🚧
-</h4>
+<h4 align="center">🚧  Wildbeast 🐺 Em Construção 🚀 🚧</h4>
 
-<p style="text-align: center">
+<p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-licença">Licença</a>
 </p>
 
 
@@ -66,23 +64,25 @@ A intenção é continuar o desenvolvimento do site tornando-o funcional.
 
 ## 🎨 Layout
 
-<img src="./screenshots/devices.png" alt="Screenshot Devices" style="margin: 5px auto 20px; display: block; max-height: 400px">
+<p align="center">
+	<img src="./screenshots/devices.png" alt="Screenshot Devices">
+</p>
 
 
 ### 📱 Mobile
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
-  <img alt="Wildbeast" title="Wildbeast" src="./screenshots/IphoneX.png" style="margin: 5px 10px 5px; max-height: 400px">
+<p align="center">
+  <img height="400" alt="Wildbeast" title="Wildbeast" src="./screenshots/IphoneX.png">
 
-  <img alt="Wildbeast" title="Wildbeast" src="./screenshots/Wildbeast-mobile.gif" style="margin: 5px 10px 20px; max-height: 400px">
-</div>
+  <img height="400" alt="Wildbeast" title="Wildbeast" src="./screenshots/Wildbeast-mobile.gif">
+</p>
 
 ### 💻 Web
 
-<p style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
-  <img alt="Wildbeast" title="Wildbeast" src="./screenshots/MacBook%201440x900.png" style="margin: 5px 10px 15px; width: 480px">
+<p align="center">
+  <img width="480" alt="Wildbeast" title="Wildbeast" src="./screenshots/MacBook%201440x900.png">
 
-  <img alt="Wildbeast" title="Wildbeast" src="./screenshots/Wildbeast-responsividade.gif" style="margin: 5px 10px 5px;">
+  <img alt="Wildbeast" title="Wildbeast" src="./screenshots/Wildbeast-responsividade.gif">
 </p>
 
 ---
@@ -136,22 +136,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a href="https://github.com/ludmillalopes">
   <img
-    style="border-radius: 50%; margin-top: 5px"
-    src="https://unavatar.io/github/ludmillalopes"
-    width="100px;"
+    border-radius="50"
+    width="100"
     alt="Ludmilla Lopes"
+    src="https://unavatar.io/github/ludmillalopes"
   >
  <br />
- <a style="display: inline-block; margin-bottom: .5em; font-weight: bold;">Ludmilla Lopes 🚀</a>
+ <b>Ludmilla Lopes 🚀</b>
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ludmilla%20Lopes-%230A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludmillalopes/)](https://www.linkedin.com/in/ludmillalopes/) 
-[![Outlook Badge](https://img.shields.io/badge/-ludmilla.lopes%40hotmail.com-%230078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:ludmilla.lopes@hotmail.com)](ludmilla.lopes@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-ludmilla.lopes%40hotmail.com-%230078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:ludmilla.lopes@hotmail.com)](mailto:ludmilla.lopes@hotmail.com)
 
 ---
 
 ## 📝 Licença
 
-Esse projeto está sob licença __MIT__.
+Esse projeto está sob licença [MIT](https://github.com/ludmillalopes/wildbeast/blob/add-license-1/LICENSE).
 
 Feito com ❤️ por Ludmilla Lopes 👋 [Entre em contato!](https://www.linkedin.com/in/ludmillalopes/)
